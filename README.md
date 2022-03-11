@@ -80,7 +80,7 @@
   
   Link to deployed application on Heroku:
 
-  https://obscure-basin-64488.herokuapp.com/
+  https://devdenfork.herokuapp.com/
 
   ## Questions
 
